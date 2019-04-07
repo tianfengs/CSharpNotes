@@ -1,0 +1,6 @@
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital13_03_Initializer\bin\Debug\Capital13_03_Initializer.exe.config
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital13_03_Initializer\bin\Debug\Capital13_03_Initializer.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital13_03_Initializer\bin\Debug\Capital13_03_Initializer.pdb
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital13_03_Initializer\obj\Debug\Capital13_03_Initializer.csproj.CoreCompileInputs.cache
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital13_03_Initializer\obj\Debug\Capital13_03_Initializer.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital13_03_Initializer\obj\Debug\Capital13_03_Initializer.pdb

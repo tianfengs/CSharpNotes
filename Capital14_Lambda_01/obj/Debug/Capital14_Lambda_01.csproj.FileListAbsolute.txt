@@ -1,0 +1,6 @@
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital14_Lambda_01\bin\Debug\Capital14_Lambda_01.exe.config
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital14_Lambda_01\bin\Debug\Capital14_Lambda_01.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital14_Lambda_01\bin\Debug\Capital14_Lambda_01.pdb
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital14_Lambda_01\obj\Debug\Capital14_Lambda_01.csproj.CoreCompileInputs.cache
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital14_Lambda_01\obj\Debug\Capital14_Lambda_01.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital14_Lambda_01\obj\Debug\Capital14_Lambda_01.pdb

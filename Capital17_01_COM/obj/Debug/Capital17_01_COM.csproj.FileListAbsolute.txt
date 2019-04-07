@@ -1,0 +1,7 @@
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital17_01_COM\obj\Debug\Capital17_01_COM.csprojAssemblyReference.cache
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital17_01_COM\obj\Debug\Capital17_01_COM.csproj.CoreCompileInputs.cache
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital17_01_COM\bin\Debug\Capital17_01_COM.exe.config
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital17_01_COM\bin\Debug\Capital17_01_COM.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital17_01_COM\bin\Debug\Capital17_01_COM.pdb
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital17_01_COM\obj\Debug\Capital17_01_COM.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital17_01_COM\obj\Debug\Capital17_01_COM.pdb

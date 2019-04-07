@@ -1,0 +1,7 @@
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital17_03_COMWord\bin\Debug\Capital17_03_COMWord.exe.config
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital17_03_COMWord\bin\Debug\Capital17_03_COMWord.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital17_03_COMWord\bin\Debug\Capital17_03_COMWord.pdb
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital17_03_COMWord\obj\Debug\Capital17_03_COMWord.csprojAssemblyReference.cache
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital17_03_COMWord\obj\Debug\Capital17_03_COMWord.csproj.CoreCompileInputs.cache
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital17_03_COMWord\obj\Debug\Capital17_03_COMWord.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital17_03_COMWord\obj\Debug\Capital17_03_COMWord.pdb

@@ -1,0 +1,6 @@
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital13_02_ImplicitType\bin\Debug\Capital13_02_ImplicitType.exe.config
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital13_02_ImplicitType\bin\Debug\Capital13_02_ImplicitType.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital13_02_ImplicitType\bin\Debug\Capital13_02_ImplicitType.pdb
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital13_02_ImplicitType\obj\Debug\Capital13_02_ImplicitType.csproj.CoreCompileInputs.cache
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital13_02_ImplicitType\obj\Debug\Capital13_02_ImplicitType.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital13_02_ImplicitType\obj\Debug\Capital13_02_ImplicitType.pdb

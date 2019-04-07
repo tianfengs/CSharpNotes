@@ -1,0 +1,7 @@
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal7_IL_01\bin\Debug\Captal7_IL_01.exe.config
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal7_IL_01\bin\Debug\Captal7_IL_01.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal7_IL_01\bin\Debug\Captal7_IL_01.pdb
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal7_IL_01\obj\Debug\Captal7_IL_01.csprojAssemblyReference.cache
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal7_IL_01\obj\Debug\Captal7_IL_01.csproj.CoreCompileInputs.cache
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal7_IL_01\obj\Debug\Captal7_IL_01.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal7_IL_01\obj\Debug\Captal7_IL_01.pdb

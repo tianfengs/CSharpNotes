@@ -1,0 +1,7 @@
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal8_Delegate_02Greeting\bin\Debug\Captal8_Delegate_02Greeting.exe.config
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal8_Delegate_02Greeting\bin\Debug\Captal8_Delegate_02Greeting.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal8_Delegate_02Greeting\bin\Debug\Captal8_Delegate_02Greeting.pdb
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal8_Delegate_02Greeting\obj\Debug\Captal8_Delegate_02Greeting.csprojAssemblyReference.cache
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal8_Delegate_02Greeting\obj\Debug\Captal8_Delegate_02Greeting.csproj.CoreCompileInputs.cache
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal8_Delegate_02Greeting\obj\Debug\Captal8_Delegate_02Greeting.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal8_Delegate_02Greeting\obj\Debug\Captal8_Delegate_02Greeting.pdb

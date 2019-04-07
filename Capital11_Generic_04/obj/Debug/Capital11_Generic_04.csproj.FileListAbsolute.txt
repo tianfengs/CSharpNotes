@@ -1,0 +1,6 @@
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital11_Generic_04\bin\Debug\Capital11_Generic_04.exe.config
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital11_Generic_04\bin\Debug\Capital11_Generic_04.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital11_Generic_04\bin\Debug\Capital11_Generic_04.pdb
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital11_Generic_04\obj\Debug\Capital11_Generic_04.csproj.CoreCompileInputs.cache
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital11_Generic_04\obj\Debug\Capital11_Generic_04.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital11_Generic_04\obj\Debug\Capital11_Generic_04.pdb

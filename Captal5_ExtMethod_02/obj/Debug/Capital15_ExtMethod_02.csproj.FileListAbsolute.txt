@@ -1,0 +1,6 @@
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal5_ExtMethod_02\bin\Debug\Capital5_ExtMethod_02.exe.config
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal5_ExtMethod_02\bin\Debug\Capital5_ExtMethod_02.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal5_ExtMethod_02\bin\Debug\Capital5_ExtMethod_02.pdb
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal5_ExtMethod_02\obj\Debug\Capital15_ExtMethod_02.csproj.CoreCompileInputs.cache
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal5_ExtMethod_02\obj\Debug\Capital5_ExtMethod_02.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal5_ExtMethod_02\obj\Debug\Capital5_ExtMethod_02.pdb

@@ -1,0 +1,6 @@
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital13_04_AnonymousType\bin\Debug\Capital13_04_AnonymousType.exe.config
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital13_04_AnonymousType\bin\Debug\Capital13_04_AnonymousType.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital13_04_AnonymousType\bin\Debug\Capital13_04_AnonymousType.pdb
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital13_04_AnonymousType\obj\Debug\Capital13_04_AnonymousType.csproj.CoreCompileInputs.cache
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital13_04_AnonymousType\obj\Debug\Capital13_04_AnonymousType.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital13_04_AnonymousType\obj\Debug\Capital13_04_AnonymousType.pdb

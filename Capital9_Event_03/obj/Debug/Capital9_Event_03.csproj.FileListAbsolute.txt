@@ -1,0 +1,6 @@
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital9_Event_03\bin\Debug\Capital9_Event_03.exe.config
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital9_Event_03\bin\Debug\Capital9_Event_03.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital9_Event_03\bin\Debug\Capital9_Event_03.pdb
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital9_Event_03\obj\Debug\Capital9_Event_03.csproj.CoreCompileInputs.cache
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital9_Event_03\obj\Debug\Capital9_Event_03.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital9_Event_03\obj\Debug\Capital9_Event_03.pdb

@@ -1,0 +1,6 @@
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal16_Linq_01\bin\Debug\Captal16_Linq_01.exe.config
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal16_Linq_01\bin\Debug\Captal16_Linq_01.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal16_Linq_01\bin\Debug\Captal16_Linq_01.pdb
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal16_Linq_01\obj\Debug\Captal16_Linq_01.csproj.CoreCompileInputs.cache
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal16_Linq_01\obj\Debug\Captal16_Linq_01.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Captal16_Linq_01\obj\Debug\Captal16_Linq_01.pdb

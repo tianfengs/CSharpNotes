@@ -1,0 +1,6 @@
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital12_05_Enum\bin\Debug\Capital12_05_Enum.exe.config
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital12_05_Enum\bin\Debug\Capital12_05_Enum.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital12_05_Enum\bin\Debug\Capital12_05_Enum.pdb
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital12_05_Enum\obj\Debug\Capital12_05_Enum.csproj.CoreCompileInputs.cache
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital12_05_Enum\obj\Debug\Capital12_05_Enum.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital12_05_Enum\obj\Debug\Capital12_05_Enum.pdb

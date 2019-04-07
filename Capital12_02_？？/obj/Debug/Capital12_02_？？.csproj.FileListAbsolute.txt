@@ -1,0 +1,6 @@
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital12_02_？？\bin\Debug\Capital12_02_？？.exe.config
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital12_02_？？\bin\Debug\Capital12_02_？？.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital12_02_？？\bin\Debug\Capital12_02_？？.pdb
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital12_02_？？\obj\Debug\Capital12_02_？？.csproj.CoreCompileInputs.cache
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital12_02_？？\obj\Debug\Capital12_02_？？.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital12_02_？？\obj\Debug\Capital12_02_？？.pdb

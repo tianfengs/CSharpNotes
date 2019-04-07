@@ -1,0 +1,6 @@
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital12_01_Nullable\bin\Debug\Capital12_01_Nullable.exe.config
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital12_01_Nullable\bin\Debug\Capital12_01_Nullable.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital12_01_Nullable\bin\Debug\Capital12_01_Nullable.pdb
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital12_01_Nullable\obj\Debug\Capital12_01_Nullable.csproj.CoreCompileInputs.cache
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital12_01_Nullable\obj\Debug\Capital12_01_Nullable.exe
+D:\maidan\Visual Studio 2017\source\repos\LerningHardCSharp学习笔记\Capital12_01_Nullable\obj\Debug\Capital12_01_Nullable.pdb
